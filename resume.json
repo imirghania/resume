@@ -5,7 +5,7 @@
     "basics": {
         "name": "Ahmed Mirghani",
         "label": "Data Scientist",
-        "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+        "image": "https://github.com/imirghania/resume/blob/main/profile.png",
         "summary": "I'm a full stack Python developer who can build end-to-end projects of various types from the ground up, I am skilled in building data-driven applications, web development and desktop applications.",
         "website": "https://ahmed.imirghani.com",
         "email": "imirghania@gmail.com",
@@ -41,7 +41,7 @@
     },
     {
     "name": "Frontend",
-    "level": "Senior",
+    "level": "Beginner",
     "keywords": [
         "HTML / CSS",
         "Vue3.js / Nuxt",
@@ -50,13 +50,18 @@
     },
     {
     "name": "Backend",
-    "level": "Senior",
+    "level": "Middle",
     "keywords": ["FastAPI", "Flask", "LiteStar"]
     },
     {
     "name": "Database",
     "level": "Senior",
     "keywords": ["Postgres", "MySQL", "Redis"]
+    },
+    {
+    "name": "Message Broker",
+    "level": "Middle",
+    "keywords": ["RabbitMQ"]
     },
     {
     "name": "Data Analysis",
@@ -82,26 +87,11 @@
     "name": "Computer Vision",
     "level": "Senior",
     "keywords": ["OpenCV", "Pillow", "scikit-image"]
-    },
-    {
-    "name": "Message Broker",
-    "level": "Senior",
-    "keywords": ["RabbitMQ"]
     }
     ],
     "work": [
     {
-    "name": "Techdinamics",
-    "position": "Integration Specialist",
-    "summary": "Techdinamics is a technology group that provides technology for Shipping Fulfillment, I integrated TechSHIP and TechTrack services into many clients' systems around the world, beside being in charge of clearning multiple customer support tickets",
-    "website": "https://techdinamics.com/",
-    "location": "Remotely",
-    "startDate": "2021-01-22",
-    "endDate": "2022-11-07",
-    "highlights": ["XML/HTML", "XLST", "XPATH", "XMLSpy", "PyTest", "httpx"]
-    },
-    {
-    "name": "Shubbak",
+    "name": "Shubbak, DUBAI UAE",
     "position": "Python Developer",
     "summary": "Built microservices and added features to already existing APIs",
     "website": "https://shubbaktech.com/",
@@ -112,9 +102,18 @@
         "Django / FastAPI",
         "Worked with Postgres, Redis and Dynamodb for storage.",
         "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
+        "Caching by Fastly and Cloudflare"
     ]
+    },
+    {
+    "name": "Techdinamics, CANADA (remotely)",
+    "position": "Integration Specialist",
+    "summary": "Techdinamics is a technology group that provides technology for Shipping Fulfillment, I integrated TechSHIP and TechTrack services into many clients' systems around the world, beside being in charge of clearning multiple customer support tickets",
+    "website": "https://techdinamics.com/",
+    "location": "Remotely",
+    "startDate": "2021-01-22",
+    "endDate": "2022-11-07",
+    "highlights": ["XML/HTML", "XLST", "XPATH", "XMLSpy", "PyTest", "httpx"]
     }
     ],
     "interests": [
@@ -129,6 +128,20 @@
     },
     {
     "name": "Open Source"
+    }
+    ],
+    "languages": [
+    {
+    "language": "English",
+    "fluency": "Fluent"
+    },
+    {
+    "language": "Arabic",
+    "fluency": "Native speaker"
+    },
+    {
+    "language": "Russian",
+    "fluency": "Basic"
     }
     ]
 }
